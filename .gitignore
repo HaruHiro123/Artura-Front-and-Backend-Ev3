@@ -1,0 +1,11 @@
+# Laravel ignorable
+/artura-api/vendor/
+/artura-api/.env
+/artura-api/storage/*.key
+/artura-api/public/storage
+/artura-api/storage/app/public/*
+
+# React ignorable
+/ARTURA-cleanup/node_modules/
+/ARTURA-cleanup/dist/
+/ARTURA-cleanup/.env
