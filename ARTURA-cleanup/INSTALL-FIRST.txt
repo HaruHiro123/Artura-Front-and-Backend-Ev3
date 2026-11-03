@@ -1,0 +1,14 @@
+ARTURA — EN/ID & SOLD FIX
+
+1. Ekstrak ZIP ke folder baru.
+2. Buka folder ARTURA-BILINGUAL-SOLD-FIX di VS Code.
+3. Buka terminal di folder yang berisi package.json.
+4. Jalankan npm ci
+5. Jalankan npm run dev
+6. Buka alamat Local dari terminal. Jangan tutup terminal.
+
+Admin demo: admin / artura123
+Karya menjadi Sold/Terjual setelah Admin > Orders > Verify Payment.
+Panduan lengkap ada di README.md dan hasil tes ada di QA-REPORT.md.
+
+Status tersimpan lokal di browser, belum terhubung ke backend.
